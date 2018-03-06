@@ -6,4 +6,5 @@ layout: home
 ---
 
 
-<a href="geo:33° 52' 12.0792'' S 151° 12' 21.2256'' E" target="_blank">Click here for map</a>
+
+Hello, world!!!
